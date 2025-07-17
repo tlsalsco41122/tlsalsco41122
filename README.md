@@ -3,6 +3,6 @@
 <h2>INFO</h2>
 <b>Blog: </b><a href="https://velog.io/@manchae/posts">manchae</a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/9y06/github-stats-transparent/output/generated/overview.svg"/>
-  <img src="https://raw.githubusercontent.com/9y06/github-stats-transparent/output/generated/languages.svg"/>
+  <img src="https://raw.githubusercontent.com/tlsalsco41122/github-stats-transparent/output/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/tlsalsco41122/github-stats-transparent/output/generated/languages.svg"/>
 </p>
